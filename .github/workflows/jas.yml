@@ -40,5 +40,5 @@ jobs:
        
        
        echo learning commands in github
-       
+       env
        
