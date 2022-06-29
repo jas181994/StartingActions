@@ -35,10 +35,5 @@ jobs:
           echo Add other actions to build,
           echo hello this is a test action.
           echo jasmeet
-       java --version
-       git --version
-       
-       
-       echo learning commands in github
-       env
+          java --version
        
