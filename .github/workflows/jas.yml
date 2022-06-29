@@ -36,4 +36,5 @@ jobs:
           echo hello this is a test action.
           echo jasmeet
           java --version
+          date
        
