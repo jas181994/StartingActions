@@ -31,10 +31,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
+        run: sh ./Myscript.sh
           echo Add other actions to build,
-          echo hello this is a test action.
-          echo jasmeet
-          java --version
-          date
+          
        
